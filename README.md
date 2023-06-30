@@ -1,5 +1,5 @@
 # Drumkit_app
-play the drumkit using webapp based on javascript.
+play the drumkit using the webapp based on javascript.
 
 #Build using:
 HTML CSS JS
